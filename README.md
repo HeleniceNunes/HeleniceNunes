@@ -21,5 +21,8 @@
 *Qual a porcentagem do sexo das pessoas envolvidas em acidentes de trânsito?*
 
 `=CONT.SE(acidentes2024_todas_causas_tipo!AB:AB;A2)`
+
+![image](https://github.com/user-attachments/assets/5b326bae-e411-41c8-9ae6-4eba9a52ab8b)
+
 # PowerBi
 ***
